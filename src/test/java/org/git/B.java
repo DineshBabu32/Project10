@@ -9,8 +9,6 @@ public class B {
 		System.out.println("B");
 	}
 
-	public void methodC() {
-		System.out.println("C");
-	}
+	
 
 }
