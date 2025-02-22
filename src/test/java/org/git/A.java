@@ -17,17 +17,9 @@ public class A {
 	public void methodD() {
 		System.out.println("D");
 	}
-
-	public void methodE() {
-		System.out.println("E");
+	public void methodX() {
+		System.out.println("X");
 	}
 
-	public void methodF() {
-		System.out.println("F");
-	}
-
-	public void methodCG() {
-		System.out.println("G");
-	}
 
 }
