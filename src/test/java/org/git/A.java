@@ -14,6 +14,12 @@ public class A {
 		System.out.println("C");
 	}
 
+	public void methodD() {
+		System.out.println("D");
+	}
+	public void methodE() {
+		System.out.println("E");
+	}
 	
 
 
