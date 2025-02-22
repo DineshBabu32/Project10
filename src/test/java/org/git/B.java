@@ -1,8 +1,6 @@
 package org.git;
 
-public class Sample {
-	
-
+public class B {
 	public void methodA() {
 		System.out.println("A");
 	}
@@ -14,6 +12,5 @@ public class Sample {
 	public void methodC() {
 		System.out.println("C");
 	}
-
 
 }
