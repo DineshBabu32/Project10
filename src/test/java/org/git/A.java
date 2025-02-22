@@ -17,6 +17,9 @@ public class A {
 	public void methodD() {
 		System.out.println("D");
 	}
+	public void methodX() {
+		System.out.println("X");
+	}
 
 
 }
