@@ -14,6 +14,18 @@ public class A {
 		System.out.println("C");
 	}
 
+	public void methodD() {
+		System.out.println("D");
+	}
+
+	public void methodE() {
+		System.out.println("E");
+	}
+
+	public void methodF() {
+		System.out.println("F");
+	}
+
 	public void methodX() {
 		System.out.println("X");
 	}
@@ -24,6 +36,7 @@ public class A {
 
 	public void methodZ() {
 		System.out.println("Z");
+
 	}
 
 }
