@@ -26,4 +26,17 @@ public class A {
 		System.out.println("F");
 	}
 
+	public void methodX() {
+		System.out.println("X");
+	}
+
+	public void methodY() {
+		System.out.println("Y");
+	}
+
+	public void methodZ() {
+		System.out.println("Z");
+
+	}
+
 }
